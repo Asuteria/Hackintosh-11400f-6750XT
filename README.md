@@ -1,8 +1,17 @@
 # Hackintosh-11400f-6750XT
 
+<b> Hackintosh 11400f 6750XT sequoia15.3.2 Can be used. But without Wi-Fi & BT. </b> </p>
+
 <hr>
 
-<b> Hackintosh 11400f 6750XT sequoia15.3.2 Can be used. But without Wi-Fi & BT. </b> </p>
+# WARING
+### EFI contents are for reference only and should not be used directly. Do not use EFI files as-is.
+
+## Tips:
+
+Customize specific settings based on [Dortania](https://dortania.github.io/OpenCore-Install-Guide/). <p>
+Update OpenCore and kexts. <p>
+<code>Enabled</code> SecureBootmodel. <p>
 
 <hr>
 
