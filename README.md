@@ -9,7 +9,7 @@
 
 ## Tips:
 
-Customize specific settings based on [Dortania](https://dortania.github.io/OpenCore-Install-Guide/). <p>
+Custom settings must be configured according to the [Dortania Guide](https://dortania.github.io/OpenCore-Install-Guide/). <p>
 Update OpenCore and kexts. <p>
 <code>Enabled</code> SecureBootmodel. <p>
 
