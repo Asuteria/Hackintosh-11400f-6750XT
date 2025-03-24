@@ -26,7 +26,7 @@ Update OpenCore and kexts. <p>
 |Motherboard| ASUS TUF Gaming B560M-PLUS
 |CPU| Intel Core i5-11400f
 |GPU| XFX AMD Radeon RX 6750 XT 12 GB
-|Memory| XiaoJing 3200Mhz 8G*2
+|Memory| XiaoJing 3600Mhz 16G*2
 |SSD| ZhiTai TiPlus5000
 |SMBIOS| MacPro7,1
 |System| Sequoia 15.3.2
